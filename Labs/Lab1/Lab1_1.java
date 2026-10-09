@@ -1,3 +1,4 @@
+package Lab1;
 public class Lab1_1{
     public static void main(String[] args) {
         //question 1

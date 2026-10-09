@@ -1,4 +1,4 @@
-package Assignments;
+package Assignments.Assignment2;
 
 public class Quiz2 {
     static void main(String[] args) {

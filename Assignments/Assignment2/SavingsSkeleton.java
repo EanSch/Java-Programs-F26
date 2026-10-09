@@ -1,4 +1,4 @@
-package Assignments;
+package Assignments.Assignment2;
 
 //import the package required for using the Scanner class
 import java.util.*;

@@ -1,3 +1,4 @@
+package Lab4;
 public class Temperature {
     public static void main(String[] args) {
         double tempf = 98.6;

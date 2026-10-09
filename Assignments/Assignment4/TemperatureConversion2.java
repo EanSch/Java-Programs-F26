@@ -1,7 +1,7 @@
 /* This program will input user for a temperature value and the type of temperature, then convert it
 from Celsius to Fahrenheit or vice versa */
 
-package Assignments;
+package Assignments.Assignment4;
 
 import java.util.Scanner;
 
